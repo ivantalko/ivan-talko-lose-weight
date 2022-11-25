@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ivan-talko-lose-weight/static/css/main.2c27c0fc.css",
+    "main.js": "/ivan-talko-lose-weight/static/js/main.1df942bc.js",
+    "static/media/fruts-comp-2x.png": "/ivan-talko-lose-weight/static/media/fruts-comp-2x.362047981bdb62f9caab.png",
+    "static/media/fruits2-tab-2x.png": "/ivan-talko-lose-weight/static/media/fruits2-tab-2x.a3abe27e67ff4847bf82.png",
+    "static/media/fruts-comp-1x.png": "/ivan-talko-lose-weight/static/media/fruts-comp-1x.2281f58da95a46e4273c.png",
+    "static/media/fruits2-tab-1x.png": "/ivan-talko-lose-weight/static/media/fruits2-tab-1x.5880cca330f58f2df7b1.png",
+    "static/media/leaves-2x-1280.png": "/ivan-talko-lose-weight/static/media/leaves-2x-1280.554397d0b79502bb36ac.png",
+    "static/media/leaves-2x-768.png": "/ivan-talko-lose-weight/static/media/leaves-2x-768.bbbf87360ac7b41d1ed0.png",
+    "static/media/leaves-1x-1280.png": "/ivan-talko-lose-weight/static/media/leaves-1x-1280.07ec7143c40752d1b8ad.png",
+    "static/media/leaves-1x-768.png": "/ivan-talko-lose-weight/static/media/leaves-1x-768.3cf507fc5063b80c0790.png",
+    "static/media/logo-comp-2x.png": "/ivan-talko-lose-weight/static/media/logo-comp-2x.c73c45492af53265f81b.png",
+    "index.html": "/ivan-talko-lose-weight/index.html",
+    "static/media/calendar.svg": "/ivan-talko-lose-weight/static/media/calendar.917873779713a2d3746d1614b57bded4.svg",
+    "static/media/exitBurger.svg": "/ivan-talko-lose-weight/static/media/exitBurger.44d37eeb9e22a80e1ff4aeb8dfbf31ae.svg",
+    "static/media/burger-menu.svg": "/ivan-talko-lose-weight/static/media/burger-menu.ad1b9ef925490361f5d1248d4b29075f.svg",
+    "main.2c27c0fc.css.map": "/ivan-talko-lose-weight/static/css/main.2c27c0fc.css.map",
+    "main.1df942bc.js.map": "/ivan-talko-lose-weight/static/js/main.1df942bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c27c0fc.css",
+    "static/js/main.1df942bc.js"
+  ]
+}
