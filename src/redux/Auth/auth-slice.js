@@ -1,7 +1,6 @@
 import { createSlice } from '@reduxjs/toolkit';
 import { StatusForAll } from 'redux/Status';
 import { loginUserOperation, logoutUserOperation } from './auth-operations';
-
 const initialState = {
   // user: { username: null, email: null },
   sid: null,
